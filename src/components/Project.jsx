@@ -6,20 +6,31 @@ const Project = () => {
       id: 1,
       title: "Portfolio Website",
       description: "My personal portfolio using React and CSS.",
-      link :""
+      link :"https://github.com/Praveenbaiti/My-Portfolio"
     },
     {
       id: 2,
-      title: "Food Court Project",
-      description:
-        "A frontend project showcasing a food court with menus and items.",
-      link : "https://github.com/Praveenbaiti/Food-Court"  
+      title: "Calculator",
+      description:"A frontend Calculator project built using HTML, CSS, and JavaScript.",
+      link : "https://github.com/Praveenbaiti/Calculator"  
     },
     {
         id: 3,
         title: "Shopping",
         description: "A frontend project showcasing a Shopping with Mens and Womens items.",
         link: "https://github.com/Praveenbaiti/react-shopping-ui"
+    },
+    {
+      id:4,
+      title: "IPL",
+      description: "A Frontend Project Showcasing a IPL Project With all IPL teams with Players.",
+      link : "https://github.com/Praveenbaiti/IPL"
+    },
+    {
+      id:5,
+      title: "Mail-Functionality",
+      description: "A Mail Functionality web application developed using PHP, MySQL, CodeIgniter, Bootstrap, and JavaScript with features like Inbox, Sent, Draft, Starred, Trash, and View Message.",
+      link: "https://github.com/Praveenbaiti/mail-functionality"
     }
   ];
 

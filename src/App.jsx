@@ -8,6 +8,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Projects from "./components/Project";
 import Skills from "./components/Skills";
+import Internship from "./components/Internship";
 import Contact from "./components/Contact";
 import Footer from "./Footer";
 
@@ -23,6 +24,7 @@ const App = () => {
               <Route path="/about" element={<About />} />
               <Route path="/projects" element={<Projects />} />
               <Route path="/skills" element={<Skills />} />
+              <Route path="/internship" element={<Internship />}/>
               <Route path="/contact" element={<Contact />} />
             </Routes>
           </div>

@@ -12,6 +12,9 @@ const Skills = () => {
           <li>React</li>
           <li>Bootstrap</li>
           <li>Python</li>
+          <li>PHP</li>
+          <li>MySQL</li>
+          <li>CodeIgniter</li>
         </ul>
       </section>
     </div>

@@ -28,6 +28,11 @@ const NavBar = () => {
             </Link>
           </li>
           <li>
+            <Link to="/internship">
+              Internship
+            </Link>
+          </li>
+          <li>
             <Link to="/contact">
               Contact
             </Link>
